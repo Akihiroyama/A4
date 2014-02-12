@@ -24,6 +24,7 @@ public class A4FX extends Application {
 	private Label label;
 	private Button commandButton;
 	private Button commandButton1;
+	private HBox commandArea;
 	private String string1;
 	private String new_string1; 
 	private String new_string2;
